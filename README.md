@@ -15,10 +15,11 @@ You may hit the endpoint wherever needed to extract the relevant data.
   - sent
 
 ## Task
-- create an email client 
+- create an email client interface
 - list of accountNames
   - inbox
   - sent
 
 By selecting an account the relative data should be displayed.
+
 All can be done with or without a css framework.
